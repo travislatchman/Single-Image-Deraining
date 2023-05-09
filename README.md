@@ -5,7 +5,7 @@
 
 ## Overall Approach  
 
-- U-Net: This is the baseline model without any modifications (see <u>*UNet_Rain100L.ipynb*</u>).  
+- U-Net: This is the baseline model without any modifications (see *UNet_Rain100L.ipynb*).  
 
 - U-Net + Local Attention: This model incorporates local attention in the U-Net architecture (see *Attention_Rain100L.ipynb*).  
 
